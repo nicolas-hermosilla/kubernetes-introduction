@@ -1,7 +1,5 @@
 # kubernetes-introduction
 
-# Kubernetes
-
 # 1. Installer Minikube et Kubectl
 Suivre cette documentation : https://minikube.sigs.k8s.io/docs/start/
 
